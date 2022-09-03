@@ -1,0 +1,5 @@
+list_console.deps.json
+list_console.dll
+list_console.exe
+list_console.runtimeconfig.json
+out.txt

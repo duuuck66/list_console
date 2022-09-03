@@ -1,0 +1,14 @@
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows\list_console.exe
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows\list_console.deps.json
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows\list_console.runtimeconfig.json
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows\list_console.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.csproj.AssemblyReference.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.csproj.ResolveComReference.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.AssemblyInfoInputs.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.AssemblyInfo.cs
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.csproj.CoreCompileInputs.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\refint\list_console.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\list_console.genruntimeconfig.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows\ref\list_console.dll

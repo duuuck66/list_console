@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "saf": {
+      "commandName": "Project",
+      "commandLineArgs": "/mt /MT -mt -MT",
+      "hotReloadEnabled": true
+    }
+  }
+}

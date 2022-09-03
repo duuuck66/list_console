@@ -1,0 +1,17 @@
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows10.0.17763.0\list_console.exe
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows10.0.17763.0\list_console.deps.json
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows10.0.17763.0\list_console.runtimeconfig.json
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows10.0.17763.0\list_console.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\bin\Release\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.csproj.AssemblyReference.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.csproj.ResolveComReference.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.AssemblyInfoInputs.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.AssemblyInfo.cs
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.csproj.CoreCompileInputs.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.csproj.CopyComplete
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\refint\list_console.dll
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\list_console.genruntimeconfig.cache
+C:\Users\duck\source\repos\2022\list_console\list_console\obj\Release\net6.0-windows10.0.17763.0\ref\list_console.dll

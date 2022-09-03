@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>warnings</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <StartupObject>Program</StartupObject>
+    <AssemblyName>!script</AssemblyName>
+    <IsPublishable>True</IsPublishable>
+    <DebugType>none</DebugType>
+    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <PlatformTarget>x64</PlatformTarget>
+    <Authors>duck</Authors>
+    <Product>quack</Product>
+    <PackageIcon>CyberDuck_35166.png</PackageIcon>
+    <ApplicationIcon>CyberDuck_35166.ico</ApplicationIcon>
+    <SignAssembly>True</SignAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <COMReference Include="{215d64d2-031c-33c7-96e3-61794cd1ee61}">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>4</VersionMinor>
+      <VersionMajor>2</VersionMajor>
+      <Guid>215d64d2-031c-33c7-96e3-61794cd1ee61</Guid>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="CyberDuck_35166.ico" />
+  </ItemGroup>
+
+</Project>

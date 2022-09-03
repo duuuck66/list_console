@@ -1,0 +1,104 @@
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+out.txt
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+out.txt
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+out.txt
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+name.txt
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+name Name
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+name !script.txt
+name Name
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+Начальная папка: net6.0
+!out.txt
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
+.txt
+net6.0.txt
+Папка: win-x64
+!script.deps.json
+!script.dll
+!script.exe
+!script.runtimeconfig.json
